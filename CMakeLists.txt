@@ -5,7 +5,7 @@ project(Calkulator)
 
 
 add_subdirectory(calkulator)
-#add_subdirectory(library)
+add_subdirectory(library)
 
 
 
