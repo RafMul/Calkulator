@@ -1,13 +1,17 @@
 #include <stdio.h>
-
+#include "addition.h"
 int main(void) {
-char operation;
-    double n1, n2;
-printf("Welkome USERS\n ");
-    printf("Enter an operator (+, -, *, /): ");
-    scanf("%c", &operation);
-    printf("Enter two operands: ");
-    scanf("%lf %lf",&n1, &n2);
+
+char action;
+double a1, a2;
+
+
+printf ("Hello USERS!!!\n");
+printf ("Enter on operation (+,-,*,/): ");
+scanf("%c", &action);
+printf("Enter two operands:\n");
+scanf("%lf %lf", &a1 ,&a2);
+
 
     switch(operation)
     {
@@ -27,4 +31,5 @@ printf("Welkome USERS\n ");
          
             break;
 return 0;
+}
 }
