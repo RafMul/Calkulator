@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include "addition.h"
+#include "division.h"
 int main(void) {
 char action;
 double a1, a2;
@@ -17,7 +18,7 @@ case '+':
     break;
 
 case '-':
-    
+    printf("The result is : %1f", div(a1,a2));
     break;
 
 case '*':
