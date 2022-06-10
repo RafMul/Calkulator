@@ -24,7 +24,7 @@ scanf("%lf %lf", &a1 ,&a2);
             break;
 
         case '*':
-         
+            printf("Result is %lf",multi(n1 , n2);
             break;
 
         case '/':
