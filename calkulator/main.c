@@ -13,12 +13,7 @@ scanf("%c", &action);
 printf("Enter two operands:\n");
 scanf("%lf %lf", &a1 ,&a2);
 
-<<<<<<< HEAD
-=======
-case '-':
-    printf("The result is : %1f", div(a1,a2));
-    break;
->>>>>>> division
+
 
     switch(operation)
     {
@@ -27,7 +22,7 @@ case '-':
             break;
 
         case '-':
-            
+             printf("The result is : %1f", div(a1,a2));
             break;
 
         case '*':
