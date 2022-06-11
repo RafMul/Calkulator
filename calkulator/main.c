@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include "addition.h"
 #include "division.h"
+#include "subtraction.h"
 int main(void) {
 
 char action;
@@ -30,7 +31,7 @@ scanf("%lf %lf", &a1 ,&a2);
             break;
 
         case '/':
-         
+         printf("Result is %lf",sub(n1 , n2);
             break;
 return 0;
 }
