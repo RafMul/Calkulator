@@ -18,7 +18,10 @@ set(SRCS
 ../library/subtraction.c
 )
 set(TEST_SRCS
-utest.c
+utest_addition.c
+utest_division.c
+utest_multiplication.c
+utest_subtraction.c
 )
 set(GLOBAL_DEFINIES
 
