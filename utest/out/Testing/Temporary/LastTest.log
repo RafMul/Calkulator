@@ -1,0 +1,63 @@
+Start testing: Jun 13 18:10 CEST
+----------------------------------------------------------
+1/4 Testing: testsaddition
+1/4 Test: testsaddition
+Command: "/home/rafal/calkulator/utest/out/test_addition"
+Directory: /home/rafal/calkulator/utest/out
+"testsaddition" start time: Jun 13 18:10 CEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testsaddition" end time: Jun 13 18:10 CEST
+"testsaddition" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/4 Testing: testsdivision
+2/4 Test: testsdivision
+Command: "/home/rafal/calkulator/utest/out/test_division"
+Directory: /home/rafal/calkulator/utest/out
+"testsdivision" start time: Jun 13 18:10 CEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testsdivision" end time: Jun 13 18:10 CEST
+"testsdivision" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/4 Testing: testsmultiplication
+3/4 Test: testsmultiplication
+Command: "/home/rafal/calkulator/utest/out/test_multiplication"
+Directory: /home/rafal/calkulator/utest/out
+"testsmultiplication" start time: Jun 13 18:10 CEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testsmultiplication" end time: Jun 13 18:10 CEST
+"testsmultiplication" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/4 Testing: testssubtraction
+4/4 Test: testssubtraction
+Command: "/home/rafal/calkulator/utest/out/test_subtraction"
+Directory: /home/rafal/calkulator/utest/out
+"testssubtraction" start time: Jun 13 18:10 CEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testssubtraction" end time: Jun 13 18:10 CEST
+"testssubtraction" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 13 18:10 CEST

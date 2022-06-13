@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/test_addition.dir/home/rafal/calkulator/library/addition.c.o CMakeFiles/test_addition.dir/utest_addition.c.o  -o test_addition 

@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/test_subtraction.dir/home/rafal/calkulator/library/subtraction.c.o CMakeFiles/test_subtraction.dir/utest_subtraction.c.o  -o test_subtraction 

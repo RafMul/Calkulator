@@ -1,0 +1,7 @@
+/home/rafal/calkulator/utest/out/CMakeFiles/rebuild_cache.dir
+/home/rafal/calkulator/utest/out/CMakeFiles/test_division.dir
+/home/rafal/calkulator/utest/out/CMakeFiles/test_addition.dir
+/home/rafal/calkulator/utest/out/CMakeFiles/test.dir
+/home/rafal/calkulator/utest/out/CMakeFiles/test_multiplication.dir
+/home/rafal/calkulator/utest/out/CMakeFiles/test_subtraction.dir
+/home/rafal/calkulator/utest/out/CMakeFiles/edit_cache.dir

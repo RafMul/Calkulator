@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/test_division.dir/home/rafal/calkulator/library/division.c.o CMakeFiles/test_division.dir/utest_division.c.o  -o test_division 

@@ -3,7 +3,7 @@
 int main(){
 double  a = 3;
 double  b = 3; 
-if (div(a ,b) == 9){
+if (multi(a ,b) == 9){
 
 return 0;
 }

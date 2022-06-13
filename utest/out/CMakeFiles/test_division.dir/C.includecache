@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../library/division.h
+
+/home/rafal/calkulator/library/division.c
+stdio.h
+-
+division.h
+/home/rafal/calkulator/library/division.h
+
+/home/rafal/calkulator/library/division.h
+
+/home/rafal/calkulator/utest/utest_division.c
+division.h
+/home/rafal/calkulator/utest/division.h
+

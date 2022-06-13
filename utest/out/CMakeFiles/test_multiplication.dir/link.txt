@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/test_multiplication.dir/home/rafal/calkulator/library/multiplication.c.o CMakeFiles/test_multiplication.dir/utest_multiplication.c.o  -o test_multiplication 

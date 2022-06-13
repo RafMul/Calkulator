@@ -1,0 +1,5 @@
+testsaddition 5 0.00027318
+testsdivision 2 0.000615478
+testsmultiplication 5 0.000233412
+testssubtraction 4 0.000287533
+---

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../library/subtraction.h
+
+/home/rafal/calkulator/library/subtraction.c
+stdio.h
+-
+subtraction.h
+/home/rafal/calkulator/library/subtraction.h
+
+/home/rafal/calkulator/library/subtraction.h
+
+/home/rafal/calkulator/utest/utest_subtraction.c
+subtraction.h
+/home/rafal/calkulator/utest/subtraction.h
+
